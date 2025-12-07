@@ -55,8 +55,7 @@ BoneFracture/
 
 2. Install required packages:
    ```bash
-   pip install tensorflow keras numpy pandas matplotlib seaborn scikit-learn opencv-python tqdm
-   pip install efficientnet
+   pip install -r requirements.txt
    ```
 
 3. For Google Colab usage, mount your Google Drive and update the dataset paths in the notebook.
